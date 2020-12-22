@@ -1,1 +1,1 @@
-web: gunicorn beneluxapp:app
+web: gunicorn beneluxapp.beneluxapp:app
